@@ -1,7 +1,7 @@
 <!-- ═════════════════════════ HEADER ═════════════════════════ -->
 <div align="center">
 
-<img src="./hero.svg" width="100%" alt="Ilef BEN HASSEN - Data Science & AI Engineer"/>
+<img src="https://raw.githubusercontent.com/BenHassenIlef/BenHassenIlef/main/hero.svg" width="100%" alt="Ilef BEN HASSEN - Data Science & AI Engineer"/>
 
 <p>
   <a href="mailto:benhassenilef20@gmail.com"><img src="https://img.shields.io/badge/Email-benhassenilef20%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2EA44F?style=flat-square&logo=checkmarx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Internship%20%7C%20Full--time%20%7C%20Freelance-32E0C4?style=flat-square"/>
   <img src="https://img.shields.io/badge/Based%20in-Tunisia%20%F0%9F%87%B9%F0%9F%87%B3-E70013?style=flat-square"/>
-  <img src="https://komarev.com/ghpvc/?username=ilef-ben-hassen&style=flat-square&color=32E0C4&label=Profile+views"/>
+  <img src="https://komarev.com/ghpvc/?username=BenHassenIlef&style=flat-square&color=32E0C4&label=Profile+views"/>
 </p>
 
 </div>
@@ -141,13 +141,13 @@ LAN, network devices & IP addressing fundamentals; workstation setup; exposure t
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ilef-ben-hassen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BenHassenIlef&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilef-ben-hassen&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenHassenIlef&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilef-ben-hassen&theme=tokyonight&hide_border=true&background=00000000"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BenHassenIlef&theme=tokyonight&hide_border=true&background=00000000"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ilef-ben-hassen&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=BenHassenIlef&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
 
 </div>
 
