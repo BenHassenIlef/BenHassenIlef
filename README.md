@@ -5,7 +5,7 @@
 
 <p>
   <a href="mailto:benhassenilef20@gmail.com"><img src="https://img.shields.io/badge/Email-benhassenilef20%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ilef-ben-hassen"><img src="https://img.shields.io/badge/LinkedIn-Ilef%20BEN%20HASSEN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ben-hassen-ilef-924859304/"><img src="https://img.shields.io/badge/LinkedIn-Ilef%20BEN%20HASSEN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2EA44F?style=flat-square&logo=checkmarx&logoColor=white"/>
