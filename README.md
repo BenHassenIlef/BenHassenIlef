@@ -1,177 +1,170 @@
-<!-- ───────────────────────── Header ───────────────────────── -->
+<!-- ═════════════════════════ HEADER ═════════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=32E0C4&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Ilef+BEN+HASSEN+%F0%9F%91%8B;Data+Science+%26+AI+Engineer;I+turn+data+into+decisions+%F0%9F%93%8A;Building+scalable+AI-powered+apps+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="./hero.svg" width="100%" alt="Ilef BEN HASSEN - Data Science & AI Engineer"/>
 
-<p><em>🎓 Data Science & AI Engineering student @ TEK-UP University — I build end-to-end ML systems, from data pipelines to deployed apps</em></p>
-
-<!-- Badges de contact -->
 <p>
-  <a href="mailto:benhassenilef20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-benhassenilef20%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ilef-ben-hassen">
-    <img src="https://img.shields.io/badge/LinkedIn-ilef--ben--hassen-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Full--time%20%7C%20Freelance-2EA44F?style=flat&logo=checkmarx&logoColor=white"/>
+  <a href="mailto:benhassenilef20@gmail.com"><img src="https://img.shields.io/badge/Email-benhassenilef20%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ilef-ben-hassen"><img src="https://img.shields.io/badge/LinkedIn-Ilef%20BEN%20HASSEN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
-<!-- Snapshot rapide -->
 <p>
-  🔭 Currently building AI-powered applications &nbsp;·&nbsp;
-  🌱 Diving deeper into MLOps & cloud-native AI &nbsp;·&nbsp;
-  💬 Ask me about Python, Docker & FastAPI
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2EA44F?style=flat-square&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Internship%20%7C%20Full--time%20%7C%20Freelance-32E0C4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Based%20in-Tunisia%20%F0%9F%87%B9%F0%9F%87%B3-E70013?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=ilef-ben-hassen&style=flat-square&color=32E0C4&label=Profile+views"/>
 </p>
 
 </div>
 
 ---
 
-<!-- About Me as Dockerfile -->
-```dockerfile
-# ─────────────────────────────────────────────
-#   Ilef BEN HASSEN — Profile
-# ─────────────────────────────────────────────
+## 👩‍💻 About Me
 
-FROM tek-up-university:data-science-ai-engineering
+Engineering student in **Data Science & Artificial Intelligence** at **TEK-UP University** (Ariana, Tunisia). I build **end-to-end ML systems** — from data pipelines and models to APIs, dashboards and containerized deployments — with a strong foundation in **full-stack development, DevOps and cloud**.
 
-LABEL maintainer="benhassenilef20@gmail.com"
-LABEL role="Data Science & AI Engineer"
-LABEL location="Tunis, Tunisia"
-LABEL linkedin="ilef-ben-hassen"
-
-# ── Education ────────────────────────────────
-ENV UNIVERSITY="TEK-UP University"
-ENV DEGREE="Data Science & AI Engineering"
-ENV PREP_SCHOOL="ULT — MPCS (2022–2024)"
-
-# ── Core skills ──────────────────────────────
-RUN apt-get install -y \
-    python java javascript php sql \
-    tensorflow pytorch scikit-learn nlp \
-    react django symfony dotnet fastapi \
-    docker kubernetes linux aws azure cicd \
-    postgresql mysql power-bi tableau
-
-# ── Current focus ────────────────────────────
-RUN echo "🤖 Building AI-powered applications"   >> /focus.txt && \
-    echo "☁️  Cloud-native architectures"         >> /focus.txt && \
-    echo "📊 Data-driven decision making"         >> /focus.txt && \
-    echo "🚀 Scalable microservices"              >> /focus.txt
-
-# ── Availability ─────────────────────────────
-ENV STATUS="Open to full-time & freelance opportunities"
-
-EXPOSE 443
-
-CMD ["deliver", "clean, impactful & scalable solutions ✨"]
+```yaml
+name:        Ilef BEN HASSEN
+role:        Data Science & AI Engineering Student
+university:  TEK-UP University (2024 – present)
+prep_school: ULT — Math, Physics & CS prep (2022 – 2024)
+location:    Tunisia
+languages:   [Arabic (native), English (B2), French (B2), German (B1)]
+currently:
+  - Building AI-powered applications (RAG, ML, multi-source data pipelines)
+  - Going deeper into MLOps & cloud-native AI
+  - Preparing AWS certifications (AI Practitioner, Data Engineer)
+ask_me_about: [Python, FastAPI, Docker, RAG, Django, React, Linux]
+status:      Open to internships, full-time roles & freelance missions
 ```
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Featured Projects
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**AI & Machine Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-**Web & Frameworks**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
-**Data & Analytics**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
----
-
-## 🏆 Certifications
-
-| Certification | Issuer | Date |
+| Project | What it does | Stack |
 |---|---|---|
-| 🐧 Red Hat Certified System Administrator (RHCSA) | Red Hat | Jul 2025 |
-| 🐍 PCAP™ — Certified Associate Python Programmer | Python Institute | Jan 2026 |
-| 📦 Red Hat Certified Specialist in Containers (EX188) | Red Hat | Apr 2026 |
-| 🤖 AWS Certified AI Practitioner | Amazon Web Services | 2026 |
-| 🔧 AWS Certified Data Engineer — Associate | Amazon Web Services | 2026 |
-| 📊 Microsoft PL-300: Power BI Data Analyst | Microsoft | 2026 |
+| 🛡️ **CyberWatch AI** | Full-stack vulnerability-watch platform indexing **11,800+ CVEs across 81 products**; daily ingestion from **17 cybersecurity sources** (NVD, MITRE, CERT-FR, CISA…) with a 3-level source-authenticity agent and a **RAG assistant** answering only from validated data (**770 automated tests**) | `FastAPI` `MongoDB` `React` `Playwright` `RAG` `Docker Compose` |
+| 🌱 **VigorTerra** | AI platform for smart agriculture: crop-yield prediction, disease-risk assessment and soil-productivity analysis, with real-time predictions and MLflow experiment tracking | `Python` `Scikit-Learn` `XGBoost` `FastAPI` `React` `Docker` `MLflow` |
+| ⚖️ **CSIS** | Social-vulnerability early-detection (Logistic Regression, Random Forest, XGBoost) + a **RAG legal assistant** grounded in the Tunisian legal corpus | `Python` `XGBoost` `NLP` `RAG` `Vector DB` `LLM` |
+| 🧙 **Wizard World** | Full digital companion & e-commerce platform for Harry Potter fans, prototyped in Balsamiq | `Django REST` `React.js` `PostgreSQL` |
+| 🤖 **AI Conversational Chatbot** | Text & voice assistant built on a seq2seq / Transformer architecture — **92 % relevance score** on natural responses | `Python` `TensorFlow` `PyTorch` `NLP` |
 
 ---
 
 ## 💼 Experience
 
-**Full-Stack Developer Intern — Progress Engineering** *(Jul – Aug 2025, Ariana)*
-> Symfony · PHP · MySQL · JavaScript · Git
+<table>
+<tr>
+<td width="170"><b>Jul – Aug 2026</b></td>
+<td><b>AI / Full-Stack Intern — Advancia IT System</b> <i>(Lac 1, Tunis)</i><br/>
+Built <b>CyberWatch AI</b> (FastAPI · MongoDB · React): automated daily CVE collection via APIs, RSS and Playwright scraping, three-level source-authenticity agent, RAG assistant, Docker Compose deployment.</td>
+</tr>
+<tr>
+<td><b>Feb – Mar 2026</b></td>
+<td><b>Certified Python (PCAP™) Instructor — TEK-UP University</b><br/>
+Coached <b>30+ students</b> every weekend (9 am – 3 pm) in an intensive PCAP™ preparation course.</td>
+</tr>
+<tr>
+<td><b>Jul – Aug 2025</b></td>
+<td><b>Full-Stack Developer Intern — Progress Engineering</b> <i>(Ariana)</i><br/>
+Backend & frontend modules for business-opportunity tracking: authentication, user management, advanced filtering, testing, performance tuning and documentation. <code>Symfony</code> <code>PHP</code> <code>MySQL</code> <code>JavaScript</code> <code>Git</code></td>
+</tr>
+<tr>
+<td><b>Aug 2024</b></td>
+<td><b>Intern — Délice Holding</b> <i>(Soliman)</i><br/>
+LAN, network devices & IP addressing fundamentals; workstation setup; exposure to finance and quality-control operations.</td>
+</tr>
+</table>
 
-- Built backend & frontend modules for business opportunity tracking
-- Implemented authentication, user management, and advanced data filtering
-- Delivered full technical documentation and functional testing
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,php,html,css,postgres&theme=dark"/>
+
+**AI & Machine Learning**<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy&theme=dark"/>
+
+**Web & Frameworks**<br/>
+<img src="https://skillicons.dev/icons?i=react,django,symfony,dotnet,fastapi,nodejs&theme=dark"/>
+
+**DevOps & Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,aws,azure,git,github,githubactions,jenkins&theme=dark"/>
+
+**Data & Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,powerbi&theme=dark"/>
+
+</div>
+
+<details>
+<summary><b>📋 Full skills breakdown</b></summary>
+
+| Domain | Skills |
+|---|---|
+| **AI / ML** | Supervised & unsupervised learning, XGBoost, Random Forest, K-Means, NLP, Transformers, RAG, vector databases, LLMs, MLflow |
+| **Backend** | FastAPI, Django REST Framework, Symfony, .NET, REST API design |
+| **Frontend** | React, JavaScript, HTML5, CSS3 |
+| **DevOps & Cloud** | Docker, Docker Compose, Git/GitHub, Linux (RHCSA), CI/CD, AWS, Microsoft Azure |
+| **Data** | SQL, PostgreSQL, MySQL, MongoDB, Pandas, Power BI, Data Mining |
+| **Methods** | Agile / Scrum, teamwork, problem solving |
+
+</details>
+
+---
+
+## 🏆 Certifications
+
+| | Certification | Issuer | Date |
+|---|---|---|---|
+| ☁️ | **INE Certified Cloud Associate (ICCA)** | INE | May 2026 |
+| 📦 | **Red Hat Certified Specialist in Containers (EX188)** | Red Hat | Apr 2026 |
+| 🐧 | **Red Hat Certified System Administrator (RHCSA)** | Red Hat | Dec 2025 |
+| 🐍 | **PCAP™ — Certified Associate Python Programmer** | Python Institute | Jul 2025 |
+| ⏳ | AWS Certified AI Practitioner · AWS Certified Data Engineer – Associate | AWS | *In progress* |
 
 ---
 
 ## 🌍 Community & Leadership
 
-| Organization | Role | Period |
-|---|---|---|
-| IEEE TEK-UP | Member | 2025 – Present |
-| Securinets Tekup | Member | 2024 – Present |
-| IEEE Education Society | Member | 2024 – Present |
-| Tunisian Red Crescent | Volunteer | 2022 – 2024 |
+- 🎯 **Sponsoring Responsible** — IEEE TEK-UP Student Branch *(2025 – present)*
+- 🔐 **Member** — Securinets TEK-UP *(2024 – present)*
+- 🎓 **Member** — IEEE Education Society *(2024 – present)*
+- ❤️ **Member** — Tunisian Red Crescent *(2022 – 2024)*
+- 🌐 **Member** — JCI Tunisia, Junior Chamber International *(2021 – 2022)*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ilef-ben-hassen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilef-ben-hassen&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ilef-ben-hassen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilef-ben-hassen&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilef-ben-hassen&theme=tokyonight&hide_border=true&background=00000000"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ilef-ben-hassen&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+
 </div>
 
 ---
 
-<!-- ───────────────────────── Footer ───────────────────────── -->
+<!-- ═════════════════════════ FOOTER ═════════════════════════ -->
 <div align="center">
-  <p>
-    ✅ Open to full-time opportunities &nbsp;|&nbsp;
-    ✅ Available for freelance projects &nbsp;|&nbsp;
-    ✅ Interested in collaborations
-  </p>
-  <p><strong>📫 benhassenilef20@gmail.com</strong></p>
-  <p><em>"Delivering clean, impactful & scalable solutions ✨"</em></p>
-  <img src="https://komarev.com/ghpvc/?username=ilef-ben-hassen&style=flat&color=7F77DD"/>
+
+### 📫 Let's connect
+
+<a href="mailto:benhassenilef20@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ilef-ben-hassen"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+*✅ Open to internships & full-time roles &nbsp;·&nbsp; ✅ Available for freelance &nbsp;·&nbsp; ✅ Open to collaborations*
+
+*"Delivering clean, impactful & scalable solutions ✨"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+
 </div>
