@@ -119,6 +119,7 @@ LAN, network devices & IP addressing fundamentals; workstation setup; exposure t
 
 | | Certification | Issuer | Date |
 |---|---|---|---|
+| 📊 | **eLearnSecurity Junior Data Scientist (eJDS)** | INE | Oct 2026 |
 | ☁️ | **INE Certified Cloud Associate (ICCA)** | INE | May 2026 |
 | 📦 | **Red Hat Certified Specialist in Containers (EX188)** | Red Hat | Apr 2026 |
 | 🐧 | **Red Hat Certified System Administrator (RHCSA)** | Red Hat | Dec 2025 |
