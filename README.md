@@ -141,13 +141,17 @@ LAN, network devices & IP addressing fundamentals; workstation setup; exposure t
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BenHassenIlef&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenHassenIlef&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenHassenIlef&theme=tokyonight&hide_border=true&background=00000000"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=BenHassenIlef&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+<br/>
+
+<img src="https://img.shields.io/github/followers/BenHassenIlef?label=Followers&style=for-the-badge&logo=github&color=32E0C4&labelColor=0B1220"/>
+<img src="https://img.shields.io/github/stars/BenHassenIlef?label=Stars&style=for-the-badge&logo=github&color=B48CFF&labelColor=0B1220&affiliations=OWNER"/>
+<img src="https://img.shields.io/badge/Repos-Public-32E0C4?style=for-the-badge&logo=github&labelColor=0B1220"/>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/32E0C4/BenHassenIlef" alt="Contribution graph" width="90%"/>
 
 </div>
 
